@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'contactform',
     'calculator',
     'snake',
+    'wheel',
 ]
 
 MIDDLEWARE = [

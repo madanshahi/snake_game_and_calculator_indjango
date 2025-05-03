@@ -25,5 +25,6 @@ urlpatterns = [
     path('', include('calculator.urls')),
     path('snake/',include('snake.urls')),
     path('contact/',include('contactform.urls')),
+    path('wheel/', include('wheel.urls')),
 ]
 
